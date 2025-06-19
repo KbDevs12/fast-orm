@@ -1,5 +1,5 @@
 {
-  "name": "fast-orm",
+  "name": "@kb/fast-orm",
   "version": "1.0.0",
   "main": "dist/orm/index.js",
   "types": "dist/orm/index.d.ts",
